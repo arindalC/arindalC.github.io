@@ -202,6 +202,7 @@ particle-area {
 /* CINTA DE FOTOS */
 .negative-strip {
     width: 100%;
+    justify-content: center;
     max-width: 1000px;
     margin: 3rem auto;
     overflow-x: auto;         
@@ -216,6 +217,7 @@ particle-area {
 .negative-track {
     display: flex;
     gap: 16px;
+    justify-content: center;
     padding: 8px;
 }
 
